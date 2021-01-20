@@ -1,5 +1,4 @@
 # Asus Prime Z370-P Hackintosh OpenCore
-OpenCore 0.5.8
 OpenCore 0.6.5
 
 CPU                  Intel Core i7-8700
