@@ -14,4 +14,4 @@ Audio Adapter        Realtek ALC887
 
 On the motherboard Asus Prime Z370-P managed to get everything, sound, network, intel acceleration, viscous graphics RX570, it also works like a dream, everything is usb, everything is implemented on the OpenCore 0.5.8 bootloader.
 
-Tested on systems from MacOS 10.14.6 to 10.15 .4
+Tested on systems from MacOS 10.14.6 to 10.15.7, Big Sur should also be installed.
